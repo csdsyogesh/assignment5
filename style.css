@@ -1,0 +1,74 @@
+header{
+    height: 100px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content:space-around;
+    text-decoration: none;
+    align-items: center;
+}
+ul {
+    display: flex;
+    justify-content:space-evenly;
+    text-decoration: none;
+}
+ul li a{
+
+    padding: 0 20px;
+    color:gold;
+}
+.logo{
+    justify-content:center;
+    border-radius: 50px;
+}
+main{
+display: flex;
+justify-content:space-evenly;
+border: 2px black;
+height: calc(100vh - 100px);
+align-items: center;background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXaNL8cL0CsqebDPsSrY5T2KfyxDfP7O4q1fIyEV17Q&s);
+justify-content: center;
+}
+.content-left{
+    width: 30px ;
+}
+main h1{
+    font-size: xx-large;
+    align-items: center;
+    color:crimson;
+}
+main h2{
+    font-size: larger;
+    color: darkred;
+
+
+}
+.As{
+    display: flex;
+    justify-content:center;
+}
+.content-right{
+justify-content: center;
+border: 30px black;
+margin: 30px black;
+}
+li a {
+    color: black;
+}
+.xt{
+color: cyan;
+background-color:red;
+justify-content: center;
+border-radius: 50px;
+}
+.Re{
+    border-radius: 50px;
+}
+.sg{
+    background-color: darkgray;
+    border-radius: 40px;
+    border: 20px black;
+    color:darkgreen;
+}
+main h3{
+    color:darkmagenta;
+}
